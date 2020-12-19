@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menu and Service</string>
+    <string name="text_view_hint">0</string>
+    <string name="edit_text_first_number_hint">First number</string>
+    <string name="edit_text_second_number_hint">Second number</string>
+    <string name="menu_addition">Addition</string>
+    <string name="menu_subtraction">Subtraction</string>
+    <string name="menu_multiplication">Multiplication</string>
+    <string name="menu_division">Division</string>
+    <string name="menu_division_remainder">Division with remainder</string>
+</resources>

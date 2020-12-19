@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addition_operation"
+        android:orderInCategory="1"
+        android:title="@string/menu_addition" />
+    <item
+        android:id="@+id/subtraction_operation"
+        android:orderInCategory="2"
+        android:title="@string/menu_subtraction" />
+    <item
+        android:id="@+id/multiplication_operation"
+        android:orderInCategory="3"
+        android:title="@string/menu_multiplication" />
+    <item
+        android:id="@+id/division_operation"
+        android:orderInCategory="4"
+        android:title="@string/menu_division" />
+    <item
+        android:id="@+id/remainder_division"
+        android:orderInCategory="5"
+        android:title="@string/menu_division_remainder" />
+</menu>
